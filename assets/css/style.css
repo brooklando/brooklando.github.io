@@ -365,7 +365,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #8582FF;}
 /* ---- .item ---- */
 .isotope:after {
     content: '';
-    display: block;
+    display: flex;
     clear: both;
 }
 .isotope .item {

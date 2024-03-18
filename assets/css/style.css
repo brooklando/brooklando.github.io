@@ -208,6 +208,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #8582FF;}
     background-position: center;
     height:890px;
 }
+
 .welcome-hero:before{
     position:absolute;
     content: " ";
@@ -587,5 +588,11 @@ nav.navbar.bootsnav .navbar-toggle i{color: #8582FF;}
 @keyframes example {
     0%   {bottom:0px;}
     100%  {bottom:7px;}
+}
+
+.placeholder {
+    margin-top: 50px;
+    width: 702.5px;
+    height: 442px;
 }
 /*========================Thank you=================

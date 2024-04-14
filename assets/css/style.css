@@ -136,6 +136,7 @@ nav.navbar.bootsnav {
     font-weight: 600;
     padding: 33px 0px 57px;
     text-transform: uppercase;
+    background-size: contain;
 
 }
 /*.navbar-brand*/
